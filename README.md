@@ -2,7 +2,7 @@
 -
 THIS IS COMPLETE RESPONSIVE PORTFOLIO WEBSITE WITH ( HTML, CSS & JS 
 -
-Source code: From ( mr. CSS )\
+Source code: From ( CodingNepal )
 -
 you can reach me out!!!
 -
